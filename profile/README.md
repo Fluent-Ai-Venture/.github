@@ -1,13 +1,23 @@
-## Fluent AI Venture
+# Inspire AI Projects
 
 Inspire Portfolio AI Projects working repository
-<!--
 
-**Here are some ideas to get you started:**
+## Thatcher Sentiment Analysis Project
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+A full-stack application for scraping, analyzing, and visualizing sentiment from social media platforms.
+
+### Documentation
+- [Sentiment Analysis Project Documentation](https://github.com/Fluent-Ai-Venture/AI-Projects/blob/main/THATCHER/sentiment-analysis-documentation/ArchitectureDesign.md)
+
+### Implementation
+- [Tonique - Implementation](https://github.com/Fluent-Ai-Venture/thatcher-sentiment-analysis-application/blob/main/README.md)
+
+## Selena Project
+
+Develop an AI backed site security assessment tool. The tool will aid in streamlining the determination of customer needs while integrating with WeSuite’s existing Lead, Site Survey, and Estimating Tools. 
+
+### Documentation
+- [Selena Project Documentation - Under Development](https://github.com/Fluent-Ai-Venture/AI-Projects/blob/main/SELENA/selena-documentation/ArchitectureDesign.md)
+
+### Implementation
+- [Selena Implementation - Under Development](https://github.com/Fluent-Ai-Venture/selena-site-security-assessment-tool/blob/main/README.md)  
